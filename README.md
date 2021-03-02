@@ -2,11 +2,11 @@
 
 ## `Description`
 
-* View, create, and track daily workouts. Log multiple exercises in a workout on a given day. Track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, track distance traveled.
+* Add expenses and deposits to your budget with or without a connection. When entering transactions offline, it will populate the total when brought back online.
 
 <br>
 
-### Please enjoy the deployed application [HERE](https://jammer-workout-tracker.herokuapp.com/)
+### Please enjoy the deployed application [HERE](https://opulent-budget-tracker.herokuapp.com/)
 <br>
 
 ### `MIT License`
@@ -14,7 +14,7 @@
 
 <br>
 
-![](https://github.com/carpegavin/The-Windjammer-Workout-Tracker/blob/main/public/assets/GIF.gif?raw=true)
+![]()
 
 
 ### `Questions?`
