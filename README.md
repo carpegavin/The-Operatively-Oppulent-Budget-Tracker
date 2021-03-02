@@ -14,7 +14,7 @@
 
 <br>
 
-![](test test)
+![](https://github.com/carpegavin/The-Operatively-Opulent-Budget-Tracker/blob/main/public/gif/budget.gif?raw=true)
 
 
 ### `Questions?`
